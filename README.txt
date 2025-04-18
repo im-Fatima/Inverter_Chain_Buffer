@@ -44,11 +44,10 @@ Open this file in "Microwind" to view the layout and run the layout simulation.
 6.Refer to inverter_chain_buffer_report.pdf for detailed documentation.
 -----------------------------------------------------------------------------------------------------
 
+MIT License  
 
 Copyright (c) 2025 NED University of Engineering & Technology  
 All rights reserved.
-
-MIT License  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
